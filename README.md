@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saheb_patel" target="blank"><img src="https://img.shields.io/twitter/follow/saheb_patel?logo=twitter&style=for-the-badge" alt="saheb kumar"  </p>
 
-- 🔭 I’m currently Student on **Vexa Web App**
+- 🔭 I’m currently Student of **B.Tech Cse (Data Science)**
 
 - 🌱 I’m currently learning **Reacts **
 
